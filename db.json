@@ -1,0 +1,31 @@
+{
+    "header": {},
+    "summary": { 
+    "products":[
+      { 
+      "picture": "https://cdn-images.farfetch-contents.com/15/39/41/06/15394106_27211470_54.jpg",  
+      "id": 15394106,
+      "brand": "Simone Rocha",
+      "value": "825,00 €"
+      },
+      { 
+      "picture": "https://cdn-images.farfetch-contents.com/14/34/29/60/14342960_24444722_54.jpg", 
+      "id": 14342960,
+      "brand": "Moschino",
+      "value": "80,00 €"
+      },
+    ],
+    "shipping": {
+    "label": "Standard delivery",
+    "value": "10.00 €",
+    "aditionalInfo": "Standard delivery"
+    }
+    "total": {
+      "label": "Total",
+      "currency": "EUR",
+      "value": "915,00 €",
+      "message": "Vat Included",
+    }
+    },   
+    "footer": {}
+  }
