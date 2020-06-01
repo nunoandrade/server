@@ -19,7 +19,7 @@
     "label": "Standard delivery",
     "value": "10.00 €",
     "aditionalInfo": "Standard delivery"
-    }
+    },
     "total": {
       "label": "Total",
       "currency": "EUR",
