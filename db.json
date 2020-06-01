@@ -20,13 +20,13 @@
       "shipping":{
          "label":"Standard delivery",
          "value":"10.00 €",
-         "aditionalInfo":"Standard delivery"
+         "aditionalInfo":"One shipping fee"
       },
       "total":{
          "label":"Total",
          "currency":"EUR",
          "value":"915,00 €",
-         "message":"Vat Included"
+         "aditionalInfo":"Vat Included"
       }
    },
    "footer":{
